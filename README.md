@@ -6,7 +6,7 @@
 I am currently </h4>
 - Working on **Novel Steer-by-Wire development and research**
 - Leading collaborative workshops for young engineers as a **Chair of the Early Career Network at Nexteer Automotive**
-- Building a **Autonomous Bot to navigate my house**
+
 
 My skills lie in </h4>
 - Developing the Control logic for Electro-Mechanical Systems using MATLAB and Simulink
