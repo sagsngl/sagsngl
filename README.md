@@ -4,15 +4,14 @@
 
 <!-- About me section -->
 I am currently </h4>
-- Working on **Novel Steer-by-Wire development and research**
-- Leading collaborative workshops for young engineers as a **Chair of the Early Career Network at Nexteer Automotive**
+- Working on **Localization with Kalman Filtering & Path Planning with A\* and Dijkstra**
+- Researching **Game Theoretic approaches for autonomous Driving**
 
 
 My skills lie in </h4>
 - Developing the Control logic for Electro-Mechanical Systems using MATLAB and Simulink
 - Performing MiL and HiL tests to validate and refine the logic
 - Path-Planning using optimization and MPC
-- Currently enhancing skillset with C++
 - Sand-Volleyball too 🏐
 
 <!-- GitHub Stats -->
